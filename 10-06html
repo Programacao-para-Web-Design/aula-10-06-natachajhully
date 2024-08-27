@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="pt br">
-	<!-- Link do Site: https://programacao-para-web-design.github.io/aula-10-06-junio-and-gustavo/codigo/Degrad%C3%AA.html -->
+	<!-- Link do Site:                                                -->
   <head>
 	  <title> DEGRADÊ </title>
 	  <meta name="google-site-verification" content="i552IuPfqTIfBqPtWuGHejRy1QLq0bRt8nubnKasKG0"> 
 	  <meta charset="UTF-8"> 
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 	  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-	  <link rel="stylesheet" href="machadocortadordecabelo.css" type="text/css">
+	  <link rel="stylesheet" href=" css " type="text/css">
   </head>
   <body>
 	  <h1 class="nome"> Corpo do Site </h1>
 	  <header id="recorte">
 		  <h1 class="nome"> Cabeçalho </h1>
 		  <h1 id="nome"> CEEMTI Baixo Guandu </h1>
-		  <img src="https://programacao-para-web-design.github.io/Aula-27-05-Jumio-and-Gustavo/imagem/Logo Escola.png" id="ceemti" alt="Logo da escola CEEMTI BG">
+		  <img src="                                                                                      " alt="Logo da escola CEEMTI BG">
 		  <nav id="Nasa">
 			  <h1 class="nome">  Navegação </h1>
 				<ul>
@@ -29,15 +29,15 @@
 		       <h1 class="nome"> Corpo Principal do Site </h1>
 		       <section id="Progwebparwebdesign">
 			  <h1 classe="materia"> Programação para Web Design </h1>
-			  <img src="https://programacao-para-web-design.github.io/aula-10-06-junio-and-gustavo/1_5141159373246038725.gif" class="carlinhos" alt="você deve se matar agora"> 
+			  <img src="                                                      "> 
 		       </section>
-		       <section id="Desenvdegames">
+		       <section id="Desenvolvimento degames">
 			  <h1 classe="materia"> Desenvolvimeto de Games </h1>
-			  <img src="https://programacao-para-web-design.github.io/aula-10-06-junio-and-gustavo/097fc80e94d19d6da05d7e6c5534601b630f6e781aa608ade7a9a768341f25a2-1_YUCEIVuj.gif" class="carlinhos" alt="ygona"> 
+			  <img src="                                                 " alt="ygona"> 
 		       </section>
 		       <section id="Analprogdesis">
 			  <h1 classe="materia"> Análise e Projeto de Sistemas </h1>
-			  <img src="https://programacao-para-web-design.github.io/aula-10-06-junio-and-gustavo/this-person-is-near-your-house-carlinhos-carlinhos-this-person-is-near-your-house.gif" class="ygona" alt="ygona"> 
+			  <img src="                                   " class="ygona" alt="ygona"> 
 		       </section>
 	        </main>
          </center>
