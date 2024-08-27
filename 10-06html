@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt br">
-	<!-- Link do Site:                                                -->
+	<!-- Link do Site: https://programacao-para-web-design.github.io/aula-10-06-natachajhully/   -->
   <head>
 	  <title> DEGRADÊ </title>
 	  <meta name="google-site-verification" content="i552IuPfqTIfBqPtWuGHejRy1QLq0bRt8nubnKasKG0"> 
@@ -14,7 +14,7 @@
 	  <header id="recorte">
 		  <h1 class="nome"> Cabeçalho </h1>
 		  <h1 id="nome"> CEEMTI Baixo Guandu </h1>
-		  <img src="                                                                                      " alt="Logo da escola CEEMTI BG">
+		  <img src="                                                                                      " alt="Logo Escola.png">
 		  <nav id="Nasa">
 			  <h1 class="nome">  Navegação </h1>
 				<ul>
