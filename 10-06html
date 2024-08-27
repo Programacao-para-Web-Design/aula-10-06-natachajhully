@@ -29,15 +29,15 @@
 		       <h1 class="nome"> Corpo Principal do Site </h1>
 		       <section id="Progwebparwebdesign">
 			  <h1 classe="materia"> Programação para Web Design </h1>
-			  <img src="                                                      "> 
+			  <img src="https://github.com/Programacao-para-Web-Design/aula-10-06-natachajhully/blob/main/igona-s%C3%A9ria.gif "> 
 		       </section>
 		       <section id="Desenvolvimento degames">
 			  <h1 classe="materia"> Desenvolvimeto de Games </h1>
-			  <img src="                                                 " alt="ygona"> 
+			  <img src=""https://github.com/Programacao-para-Web-Design/aula-10-06-natachajhully/blob/main/igona-s%C3%A9ria.gif  " alt="ygona-séria.gif"> 
 		       </section>
 		       <section id="Analprogdesis">
 			  <h1 classe="materia"> Análise e Projeto de Sistemas </h1>
-			  <img src="                                   " class="ygona" alt="ygona"> 
+			  <img src="https://github.com/Programacao-para-Web-Design/aula-10-06-natachajhully/blob/main/igona-s%C3%A9ria.gif " class="ygona-séria.gif" alt="ygona-séria.gif"> 
 		       </section>
 	        </main>
          </center>
